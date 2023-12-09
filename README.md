@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mikail Islam</h1>
-<h3 align="center">MERN Stack Developer and JavaScript Enthusiast</h3>
+![Mikail Islam's Github Banner](https://raw.githubusercontent.com/EligibleDev/EligibleDev/main/assets/banner.png)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EligibleDev&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
