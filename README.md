@@ -1,5 +1,6 @@
 ![Mikail Islam's Github Banner](https://raw.githubusercontent.com/EligibleDev/EligibleDev/main/assets/banner.png)
 
+As a MERN Stack Developer, I excel in creating user-friendly web applications with strong problem-solving skills and a commitment to innovation. Proficient in MongoDB, Express.js, React.js, and Node.js, I thrive in collaborative team environments, continuously learning and dedicated to crafting efficient code. Eager to contribute meaningfully to impactful projects, I bring my unique perspective and technical prowess to a dynamic development team.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EligibleDev&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
