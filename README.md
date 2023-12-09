@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Mikail Islam</h1>
+<h3 align="center">MERN Stack Developer and JavaScript Enthusiast</h3>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/developer.mikail) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/developer-mikail) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22102255) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Mikail_Dev) 
@@ -23,5 +25,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EligibleDev&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
